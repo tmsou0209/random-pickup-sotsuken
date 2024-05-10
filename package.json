@@ -1,0 +1,19 @@
+{
+  "name": "random_pickup",
+  "version": "1.0.0",
+  "description": "Pick up one of the members in csv file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "e"
+  },
+  "author": "SouTamura",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csv-parse": "^5.5.5"
+  }
+}
